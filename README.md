@@ -118,6 +118,3 @@ There are four more instructions that can appear in the assembly code which does
 ## References
 [1] M. Mano, “Computer System Architecture,” Pearson Publisher, 3rd Edition, 1992.
 
-## Credits
-
-This project was created by Mostafa Soliman and Osama Adel, 12 Decemeber 2020.
